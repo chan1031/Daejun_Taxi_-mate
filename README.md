@@ -8,4 +8,5 @@ AIDA 대전 택시 승객 예측 서비스
 2. 시간대별 지하철 승하차 고객 수
 3. 초단기 날씨 예측 데이터
 
-   
+#지도 좌표 조회와 모델 테스트 코랩 링크
+https://colab.research.google.com/drive/16rLiOe1gTpa7d6MOFBZrPo875VUSVPww?usp=sharing
